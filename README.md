@@ -14,7 +14,7 @@ Diverse et variée mon expérience professionnelle est:
 Toujours très formatrices mes formations furent.  
 * Opérateur en confection de vêtement de cuir,
 * BTS Tourisme,
-* BPREA de maraichage BIO.
+* BPREA de maraichage BIO.  
 Aujourd'hui lun. 19 oct. 2015 est un grand jour pour moi : dans quelques heures la prairie Simplon.IN'ESS commence...
 
 ##Les raisons pour lesquelles je me suis inscrit sur Simplonline et qu'est-ce que j'attends de la formation
