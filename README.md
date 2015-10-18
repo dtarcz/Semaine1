@@ -1,17 +1,16 @@
-# Semaine1
+#Présentation de David
+*Bienvenue sur ma présentation*
 Semaine1 de Simplonline
-*Bienvenue sur ma présentation (italique)*
-__Ceci est un embryon (gras)__
+__Ceci est un embryon__
 
-#Présentation de David (titre)
-##Mon expérience professionnelle (titre2)
+##Mon expérience professionnelle
 Diverse et variée est mon expérience professionnelle.
 
 
-##Mes formations (titre2)
+##Mes formations
 Toujours très formatrices ont été mes formations.
 
 
-##Les raisons pour lesquelles je me suis inscrit sur Simplonline et qu'est-ce que j'attends de la formation (titre2)
+##Les raisons pour lesquelles je me suis inscrit sur Simplonline et qu'est-ce que j'attends de la formation
 Pour apprendre à coder, inscrit sur Simplon je me suis.
 De cette formation, un univers radieux et un avenir enrichissant j'attends.
