@@ -1,14 +1,14 @@
 #Présentation de David
 *Bienvenue sur ma présentation* soyez :)  
 Semaine1 de Simplonline  
-__Ceci est un embryon__  
+__Un embryon ce fichier README est__  
 
 ##Mon expérience professionnelle
-Diverse et variée est mon expérience professionnelle.  
+Diverse et variée mon expérience professionnelle est.  
 
 
 ##Mes formations
-Toujours très formatrices ont été mes formations.  
+Toujours très formatrices mes formations furent.  
 
 
 ##Les raisons pour lesquelles je me suis inscrit sur Simplonline et qu'est-ce que j'attends de la formation
