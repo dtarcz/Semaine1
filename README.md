@@ -5,9 +5,9 @@ __Un embryon ce fichier README est__
 
 ##Mon expérience professionnelle
 Diverse et variée mon expérience professionnelle est:  
-1.Maroquinier
-2.Réceptionniste
-3.Livreur
+1. Maroquinier
+2. Réceptionniste
+3. Livreur
 
 
 ##Mes formations
